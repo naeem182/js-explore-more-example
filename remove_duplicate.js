@@ -1,6 +1,4 @@
 
-
-
 function removeDuplicate(names) {
 
     const unique = [];
